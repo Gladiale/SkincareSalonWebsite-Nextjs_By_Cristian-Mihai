@@ -49,7 +49,7 @@ const About = () => {
             className="flex flex-col items-start xl:max-w-[650px] text-center xl:text-left mx-auto xl:mx-0"
           >
             <h2 className="h2 mb-6 mx-auto max-w-[540px] xl:max-w-none">
-              Committed to Your Skin's Health and Beauty
+              Committed to Your Skin&apos;s Health and Beauty
             </h2>
             <p className="lead max-w-[600px] mx-auto xl:mx-0">
               Tailored skincare solutions for a healthy complexion, offering customized
